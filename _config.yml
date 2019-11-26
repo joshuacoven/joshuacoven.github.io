@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+
+author:
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  github           : "academicpages"
+  linkedin         :
+  
