@@ -1,34 +1,23 @@
 <!DOCTYPE html>
 	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-		</head>
+	
+		{% include head.html %}
+
 		<body>
-			<div class="topnav">
-	    		
-        		
-        			<a href='{{site.url}}#Home'><i class="fa fa-fw fa-home"></i> Home</a>
-        		
-        		<!--<a href="/cv">CV</a>
-        		<a href="/blog">Projects</a>-->
-        		
-        			<a href="{{site.url}}#Papers"><i class="fa fa-paper-plane"></i> Papers</a>
-        		
-        		
-        			<a href="{{site.url}}#Projects" class="list-group-item"><i class="fa fa-coffee"></i> Projects</a>
-        		
-        		<a href="https://github.com/joshuacoven" class="list-group-item"><i class="fa fa-code"></i> GitHub</a>
-        		
-        		
-        			<a href="/cv/" class="list-group-item"><i class="fa fa-university"></i> CV</a>
-        		
-	        		
-	        		
-	    		
-	    	</div>
+			<nav class="navbar fixed-top navbar-dark bg-dark">
+			  <div class="container-fluid">
+			    <a href='{{site.url}}#Home'><i class="fa fa-fw fa-home"></i> Home</a>
+        		<a href="{{site.url}}#Papers"><i class="fa fa-paper-plane"></i> Papers</a>
+        		<a href="{{site.url}}#Projects"><i class="fa fa-coffee"></i> Projects</a>
+        		<a href="https://github.com/joshuacoven"><i class="fa fa-code"></i> GitHub</a>
+        		<a href="/cv/"><i class="fa fa-university"></i> CV</a>
+			  </div>
+			</nav>
+		
+
+	    	<br>
+	    	<br>
+	    	<br>
 	    	
 			<div class="container">
 			

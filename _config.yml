@@ -1,2 +1,8 @@
 name: Josh Coven, Incoming Finance PhD Student
 markdown: kramdown
+baseurl: ""
+url: ""
+
+# include the pages
+include:
+  - _pages

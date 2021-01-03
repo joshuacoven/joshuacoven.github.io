@@ -1,0 +1,103 @@
+I"Ý<div class="row">
+    <div class="col-5">
+        <img src="/images/author.jpg" alt="Yours Truly" class="center" />
+    </div>
+        <div class="col-5">
+            <center><h1>Joshua Coven</h1></center>
+            <p>PhD student in Finance at the NYU Stern School of Business.</p>
+            <br />
+            <div class="column_three">
+                <div class="logo">
+                <a target="_blank" href="https://scholar.google.com/citations?user=mzhGbFMAAAAJ&amp;hl=en"><img alt="follow me on Twitter" src="../images/scholar.png" /></a>
+                </div>
+            </div>
+            <div class="column_three">
+                <div class="logo">
+                <a target="_blank" href="https://github.com/joshuacoven"><img alt="follow me on Twitter" src="../images/github.png" /></a>
+                </div>
+            </div>
+            <div class="column_three">
+                <div class="logo">
+                <a target="_blank" href="https://www.linkedin.com/in/josh-coven-839b5b101/"><img alt="follow me on Twitter" src="images/linkedin.png" /></a>
+                </div>
+            </div>
+            <div class="column_three">
+                <div class="logo">
+                <a target="_blank" href="https://twitter.com/josh_coven"><img alt="follow me on Twitter" src="images/twitter.png" /></a>
+                </div>
+            </div>
+        </div>
+</div>
+
+<h2 id="education">Education</h2>
+<ul>
+  <li>A.B. in Physics, Harvard College, 2018</li>
+  <li>Ph.D in Finance, NYU Stern School of Business, 2020-Present</li>
+</ul>
+
+<h2 id="working-papers">Working Papers</h2>
+<ul>
+  <li>Pub 1</li>
+  <li>Pub 2</li>
+</ul>
+
+<h2>Joshua Coven</h2>
+<h3>PhD Student in Finance at NYU Stern School of Business</h3>
+<!-- put logos here -->
+<hr />
+
+<h2>Education</h2>
+<div class="row">
+    <h3>
+        Current: PhD in Finance, NYU Stern School of Business, 2020-
+    </h3>
+    <h3>
+        AB, Harvard College, 2014-2018
+    </h3>
+    
+
+</div>
+<hr />
+
+<h2>Working Papers</h2>
+
+<div class="row">
+    <h3>
+        <a href="https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5f8754fa7f0f4c44ec6ee31b/1602704686535/DemographicCovid.pdf" style="color: black">
+            Urban Flight Seeded the COVID-19 Pandemic Across the United States
+        </a>
+    </h3>
+    <h4>with Arpit Gupta and Iris Yao</h4>
+</div>
+<div class="row">
+    <h3>
+        <a href="https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5f6827e0dc971b47107f0b74/1600661477318/COVID_Disparities.pdf" style="color: black">
+            Racial Disparities in Frontline Workers and Housing Crowding During COVID-19: Evidence from Geolocation Data
+            </a>
+    </h3>
+    <h4>with Milena Almagro, Arpit Gupta, and Angelo Orane-Hutchinson</h4>
+</div>
+<div class="row">
+    <h3>
+        <a href="https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5ebf201183c6f016ca3abd91/1589583893816/DemographicCovid.pdf" style="color: black">
+        Disparities in Mobility Responses to COVID-19
+        </a>
+    </h3>
+    <h4>with Arpit Gupta</h4>
+</div>
+
+<hr />
+
+<hr />
+
+<h2>Experience</h2>
+<div class="row">
+    <h3>
+        Junior Research Scientist, NYU Stern Finance Department, 2019-2020
+    </h3>
+    <h3>
+        Associate, Novantas, 2018-2019
+    </h3>
+
+</div>
+:ET
