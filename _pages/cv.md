@@ -42,19 +42,24 @@ permalink: /cv/
     * A.B. in Physics, Cum Laude
 
 ### Research Interests
-* Household Finance, Urban Economics, Political Economy, Education, Healthcare
+* Real Estate, Urban Economics, Household Finance, Industrial Organization
 
-### Working Papers
-* <a href = "https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5f8754fa7f0f4c44ec6ee31b/1602704686535/DemographicCovid.pdf" style = "color: blue">
+### Publications
+
+##### Published
+* <a href = "https://www.sciencedirect.com/science/article/pii/S0094119022000663?via%3Dihub#" style = "color: blue">
             Urban Flight Seeded the COVID-19 Pandemic Across the United States
         </a>
     * with Arpit Gupta and Iris Yao
+    * Forthcoming, Journal of Urban Economics: Insights
     * Press: <a href = "https://marginalrevolution.com/marginalrevolution/2020/04/escape-from-new-york.html" style = "color: blue">Marginal Revolution</a> · <a href = "https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html" style = "color: blue">The New York Times Upshot</a> · <a href = "https://www.bloomberg.com/news/articles/2020-08-14/nyc-crime-spike-is-last-straw-pushing-anxious-residents-to-flee" style = "color: blue">Bloomberg</a> · <a href = "https://www.forbes.com/sites/williamhaseltine/2020/12/21/urban-flight-due-to-covid-19-is-temporary-not-permanent/?sh=6ab583d84cd5" style = "color: blue">Forbes</a>
-* <a href = "https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5f6827e0dc971b47107f0b74/1600661477318/COVID_Disparities.pdf" style = "color: blue">
-            Racial Disparities in Frontline Workers and Housing Crowding During COVID-19: Evidence from Geolocation Data
+
+##### Working Papers
+* <a href = "https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/608ee7c73b4783281770b994/1619978187759/COVID_Disparities.pdf" style = "color: blue">
+            Disparities in COVID-19 Risk Exposure: Evidence from Geolocation Data
             </a>
     * with Milena Almagro, Arpit Gupta, and Angelo Orane-Hutchinson
-* <a href = "https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/5ebf201183c6f016ca3abd91/1589583893816/DemographicCovid.pdf" style = "color: blue">
+* <a href = "https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/608ee7c73b4783281770b994/1619978187759/COVID_Disparities.pdf" style = "color: blue">
         Disparities in Mobility Responses to COVID-19
         </a>
     * with Arpit Gupta
