@@ -39,6 +39,25 @@ permalink: /
 <br>
 <hr>
 <br>
+<h2>Working Papers</h2>
+<div class = "row">
+    <div class = "col-6">
+     <center><p>Effect of B2R's Exit on Housing Quantities For Age Groups</p></center>
+        <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554831">
+            <img src="/images/b2r.png"/>
+        </a>
+    </div>
+    <div class = "col-6">
+        <h3>
+            <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554831" style = "color: blue">
+            The Impact of Institutional Investors on Homeownership and Neighborhood Access
+            </a>
+        </h3>
+       <p>I estimate a demand system to study the effects of institutional investors' conversion of large fractions of owner-occupied housing into rentals in the suburbs of US cities. I find the purchases and subsequent conversions of houses resulted in a tradeoff between homeowners and renters. Institutional investors decreased the housing available for owner-occupancy by 30% of the homes they converted, and their demand shock raised the price of housing in a census PUMA by 7.4pp per 1pp of housing they purchased. Higher prices made it harder for people to buy homes. However, the institutional investors increased the supply of homes available for renter occupancy by 69% of the houses they converted, and lowered rents by 2.3pp per 1pp of housing they purchased. The increase in the supply of rental housing allowed the financially constrained to move into neighborhoods that previously had few rental units. The people who moved into institutional investor-owned homes had lower incomes, a lower likelihood of having a bachelor's degree, were more likely to be white, came from areas with worse historic economic mobility, and came from areas with lower school test scores than others who moved into the same census tracts. The findings suggest that institutional investors made it harder for people to purchase homes, but easier for renters to access neighborhoods that previously had few rentals.</p>
+    </div>
+</div>
+<hr>
+<br>
 <h2>Published Papers</h2>
 <div class = "row">
     <div class = "col-6">
@@ -54,7 +73,7 @@ permalink: /
             </a>
         </h3>
         <h4>with Milena Almagro, Arpit Gupta, and Angelo Orane-Hutchinson</h4>
-        <h5>Regional Science and Urban Economics, Forthcoming</h5>
+        <h5>Regional Science and Urban Economics, Volume 102, September 2023, 103933</h5>
        <p>We examine the determinants of COVID-19 risk exposure in the context of the initial wave in New York City. In the first wave of the pandemic, out-of-home activity and household crowding were strongly associated with hospitalization at an individual level. After mass layoffs and shelter in place restrictions, out-of-home mobility decreased in importance for the risk of COVID-19 hospitalization, while the household crowding channel remained important. A larger share of individuals in crowded housing or with high measures of out-of-home mobility were Black, Hispanic, and lower-income-which contributed to disparities in disease risk. We conclude that structural socio-economic inequalities helped determine the cross-section of COVID-19 risk exposure in urban areas.</p>
     </div>
 </div>
@@ -81,7 +100,7 @@ permalink: /
 
 <hr>
 <br>
-<h2>Working Papers</h2>
+<h2>Other Papers</h2>
 
 <div class = "row">
     <div class = "col-6">
