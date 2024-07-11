@@ -64,6 +64,10 @@ permalink: /cv/
         The Impact of Institutional Investors on Homeownership and Neighborhood Access
         </a>    
     * Martin J. Gruber 2nd-year Paper Award, NYU Stern Finance (2022)
+* <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880480" style = "color: blue">
+        Property Taxes and Housing Allocation Under Financial Constraints
+        </a>    
+    * with Sebastian Golder, Arpit Gupta, and Abdoulaye Ndiaye
 
 ##### Other Papers
 * <a href = "https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/608ee7c73b4783281770b994/1619978187759/COVID_Disparities.pdf" style = "color: blue">
@@ -74,6 +78,10 @@ permalink: /cv/
 ### Awards and Fellowships
 * Urban Doctoral Fellowship, NYU (2023)
 * Martin J. Gruber 2nd-year Paper Award, NYU Stern Finance (2022)
+
+### Presentations
+* 2024: Penn State (real estate), USC Marshall PhD Conference
+* 2023: National Tax Association Annual Conference
 
 
 

@@ -57,6 +57,24 @@ permalink: /
     </div>
 </div>
 <hr>
+<div class = "row">
+    <div class = "col-6">
+     <center><p>Bedroom Ownership Distribution By Prop. Tax Rate Decile</p></center>
+        <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880480">
+            <img src="/images/proptax.png"/>
+        </a>
+    </div>
+    <div class = "col-6">
+        <h3>
+            <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880480" style = "color: blue">
+            Property Taxes and Housing Allocation Under Financial Constraints
+            </a>
+        </h3>
+        <h4>with Sebastian Golder, Arpit Gupta, and Abdoulaye Ndiaye</h4>
+       <p>Property taxes impact the housing distribution across generations. Low property taxes lead to concentrated ownership among elderly empty-nesters, limiting housing for financially constrained young families. Conversely, high property taxes act as a "forced mortgage,'' reducing upfront downpayments and enabling greater homeownership among younger households. We show in an overlapping generations model that raising property taxes in low-tax California to match those in higher-tax Texas increases homeownership in California by 4.6% and among younger households by 7.4% in steady state. Asset taxes can reallocate housing to higher-valuation households in the presence of financial constraints, providing an independent rationale for property taxes.</p>
+    </div>
+</div>
+<hr>
 <br>
 <h2>Published Papers</h2>
 <div class = "row">
