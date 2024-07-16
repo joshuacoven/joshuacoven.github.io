@@ -46,36 +46,40 @@ permalink: /cv/
 
 ### Publications
 
+##### Job Market Paper
+* <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554831" style = "color: blue">
+        **The Impact of Institutional Investors on Homeownership and Neighborhood Access**
+        </a>    
+    * David M. Graifman Merit Award, NYU Stern Finance (2024)
+    * Martin J. Gruber 2nd-year Paper Award, NYU Stern Finance (2022)
+
 ##### Published
-* <a href = "https://www.sciencedirect.com/science/article/pii/S0166046223000686" style = "color: blue">
-            Disparities in COVID-19 Risk Exposure: Evidence from Geolocation Data
+1. <a href = "https://www.sciencedirect.com/science/article/pii/S0166046223000686" style = "color: blue">
+            **Disparities in COVID-19 Risk Exposure: Evidence from Geolocation Data**
             </a>
     * with Milena Almagro, Arpit Gupta, and Angelo Orane-Hutchinson
     * Regional Science and Urban Economics, Volume 102, September 2023, 103933
-* <a href = "https://www.sciencedirect.com/science/article/pii/S0094119022000663" style = "color: blue">
-            Urban Flight Seeded the COVID-19 Pandemic Across the United States
+2. <a href = "https://www.sciencedirect.com/science/article/pii/S0094119022000663" style = "color: blue">
+            **Urban Flight Seeded the COVID-19 Pandemic Across the United States**
         </a>
     * with Arpit Gupta and Iris Yao
     * Journal of Urban Economics: Insights, Volume 133, January 2023, 103489
     * Press: <a href = "https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html" style = "color: blue">The New York Times Upshot</a> · <a href = "https://www.bloomberg.com/news/articles/2020-08-14/nyc-crime-spike-is-last-straw-pushing-anxious-residents-to-flee" style = "color: blue">Bloomberg</a> · <a href = "https://www.forbes.com/sites/williamhaseltine/2020/12/21/urban-flight-due-to-covid-19-is-temporary-not-permanent/?sh=6ab583d84cd5" style = "color: blue">Forbes</a> · <a href = "https://marginalrevolution.com/marginalrevolution/2020/04/escape-from-new-york.html" style = "color: blue">Marginal Revolution</a> 
 
 ##### Working Papers
-* <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554831" style = "color: blue">
-        The Impact of Institutional Investors on Homeownership and Neighborhood Access
-        </a>    
-    * Martin J. Gruber 2nd-year Paper Award, NYU Stern Finance (2022)
 * <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880480" style = "color: blue">
-        Property Taxes and Housing Allocation Under Financial Constraints
+        **Property Taxes and Housing Allocation Under Financial Constraints**
         </a>    
     * with Sebastian Golder, Arpit Gupta, and Abdoulaye Ndiaye
 
 ##### Other Papers
 * <a href = "https://static1.squarespace.com/static/56086d00e4b0fb7874bc2d42/t/608ee7c73b4783281770b994/1619978187759/COVID_Disparities.pdf" style = "color: blue">
-        Disparities in Mobility Responses to COVID-19
+        **Disparities in Mobility Responses to COVID-19**
         </a>
     * with Arpit Gupta
 
 ### Awards and Fellowships
+* David M. Graifman Merit Award, NYU Stern Finance (2024)
 * Urban Doctoral Fellowship, NYU (2023)
 * Martin J. Gruber 2nd-year Paper Award, NYU Stern Finance (2022)
 
