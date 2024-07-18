@@ -45,9 +45,25 @@ ul.posts li {
   padding: 0px 10px;
 }
 
+.custom-link {
+  color: #226f93;
+  text-decoration: underline;
+}
+.custom-link:hover {
+  color: darkblue;
+}
+.custom-link-nounderline {
+  color: #226f93;
+  text-decoration: none;
+}
+
 
 img {
     width: 100%;
+}
+
+.custom-color {
+  color: #226f93; /* Custom hex color */
 }
 
 .center {
@@ -111,3 +127,80 @@ img {
     height: 60px;
 }
 
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+.card {
+  background-color: #eaebec;
+  border: 1px solid #eaebec;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  width: 100%; /* Ensure the card takes full width */
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  margin-bottom: 0px;
+}
+.card-body {
+  padding: 1rem;
+}
+.card-title {
+  margin-bottom: 0.75rem;
+}
+.card-subtitle {
+  margin-bottom: 0.5rem;
+}
+.card-text {
+  margin-bottom: 1rem;
+}
+
+
+.drawer {
+  display: none;
+  margin-top: 10px;
+}
+.drawer-toggle {
+  background: none;
+  border: none;
+  color: #226f93;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0;
+}
+.caret {
+  font-size: 12px;
+  margin-left: 5px;
+}
+
+.navbar-nav .nav-link {
+  padding-left: 40px; /* Increased padding */
+  padding-right: 40px; /* Increased padding */
+  margin-left: 20px; /* Added margin */
+  margin-right: 20px; /* Added margin */
+  font-size: 1.1em;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+  margin-right: auto; /* Pushes the brand to the left */
+}
+
+/* Adjust the container to add padding on both sides */
+.container-fluid {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.custom-hr {
+  width: 100%; /* Set width to match the column */
+  margin: auto; /* Center the hr */
+}
+
+.row.card-row {
+  margin-bottom: 0px; /* Adjust this value to make the gap smaller */
+}
+
+.custom-margin-top {
+  margin-top: 0rem; /* Adjust this value to reduce the space */
+}
