@@ -15,7 +15,7 @@ permalink: /
             <br>
             <p style="font-size: 12pt">I am a PhD student in Finance at the NYU Stern School of Business.</p>
             <p style="font-size: 12pt">I am interested in real estate, urban economics, household finance, and industrial organization.</p>
-            <p style="font-size: 12pt">My job market paper studies <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554831" class = "custom-link">The Impact of Institutional Investors on Homeownership and Neighborhood Access.</a></p>
+            <p style="font-size: 12pt">I am on the job market this cycle. My job market paper studies <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554831" class = "custom-link">The Impact of Institutional Investors on Homeownership and Neighborhood Access.</a></p>
             <p style="font-size: 12pt"><strong>Contact:</strong> joshua.coven@stern.nyu.edu</p>
             <p style="font-size: 12pt"><a href = "{{site.url}}/assets/CVJoshuaCoven.pdf" class = "custom-link">CV</a></p>
             <br>
