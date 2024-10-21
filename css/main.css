@@ -1,3 +1,117 @@
+.home-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.home-image {
+  width: 100%;
+  height: auto;
+  max-width: 500px; /* Limit the image size on large screens */
+}
+
+.home-text {
+  max-width: 45%;
+  padding-left: 20px;
+}
+
+@media (max-width: 768px) {
+  .home-container {
+    flex-direction: column;
+    align-items: flex-start; /* Avoid centering */
+    justify-content: flex-start;
+    width: 100%; /* Full width for the container */
+    max-width: 100%; /* Ensure no restriction */
+    margin: 0 auto; /* Center the container if needed */
+    padding: 0; /* Remove padding */
+  }
+
+  .home-image {
+    width: 100%; /* Ensure the image takes up full width */
+    max-width: 300px; /* Set a reasonable max width */
+    margin: 0 auto; /* Center the image */
+  }
+
+  .home-text {
+    width: 100%; /* Full width for text */
+    max-width: 100%; /* Ensure no max width restriction */
+    text-align: left; /* Align text to the left */
+    padding: 0; /* Remove padding */
+    margin-bottom: 20px; /* Add some margin for spacing */
+  }
+}
+
+/* Larger Mobile and Tablets */
+@media (max-width: 1024px) {
+  .home-container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%; 
+    max-width: 100%; /* Slight margin on larger screens */
+    margin: 0 ;
+    padding: 0 ; /* Add small padding for better spacing */
+  }
+
+  .home-image {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+  }
+
+  .home-text {
+    width: 100%; 
+    max-width: 100%; 
+    text-align: left;
+    padding: 0;
+  }
+}
+@media (max-width: 1024px) {
+  body {
+    font-size: 1.3rem !important; /* Larger body text for tablets */
+  }
+
+  h1 {
+    font-size: 2.5em !important; /* Larger heading for tablets, ensuring name fits on one line */
+    white-space: nowrap; /* Prevent line breaks */
+    text-align: center; /* Center your name */
+  }
+
+  p {
+    font-size: 1.2em !important; /* Larger paragraph text */
+    text-align: left !important; /* Left-align text below your name */
+  }
+
+  .home-text {
+    text-align: left !important; /* Ensure home text is left-aligned */
+    font-size: 1em !important; /* Adjust for readability */
+  }
+  .card-title {
+    font-size: 1.3em; /* Increase size for paper titles */
+}
+
+/* Increase font size for card text */
+.card-text {
+    font-size: 1.1em; /* Increase size for paper content */
+}
+
+/* Increase font size for abstract buttons */
+.drawer-toggle {
+    font-size: 1.1em; /* Larger button text for Abstract toggle */
+}
+h5 {
+  font-size: 1.2em; /* Increase the font size for h5 elements */
+  
+}
+h6 {
+  font-size: 1.1em; /* Increase the font size for h5 elements */
+  
+}
+}
+
+
+
 body {
     margin: 60px auto;
     width: 70%;

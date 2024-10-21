@@ -4,45 +4,22 @@ title: Joshua Coven, PhD Student
 permalink: /
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-<div class="row custom-margin-top">
+<div class="home-container">
     <div class = "col-5">
-        <img src="/images/author.jpg" alt="Yours Truly" class="img-fluid">
+        <img src="/images/author.jpg" alt="Yours Truly" class="img-fluid home-image">
     </div>
-        <div class="col-7">
-            <br>
-            <br>
-            <h1 class = "custom-color" style="font-size: 36pt">Joshua Coven</h1>
-            <br>
-            <p style="font-size: 12pt">I am a PhD student in Finance at the NYU Stern School of Business.</p>
-            <p style="font-size: 12pt">I am interested in real estate, urban economics, household finance, and industrial organization.</p>
-            <p style="font-size: 12pt">I am on the job market this cycle. My job market paper studies <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554831" class = "custom-link">The Impact of Institutional Investors on Homeownership and Neighborhood Access.</a></p>
-            <p style="font-size: 12pt"><strong>Contact:</strong> joshua.coven@stern.nyu.edu</p>
-            <p style="font-size: 12pt"><a href = "{{site.url}}/assets/CVJoshuaCoven.pdf" class = "custom-link">CV</a></p>
-            <br>
-            <!--
-            <div class="column_three">
-                <div class = "logo">
-                <a target="_blank" href="https://scholar.google.com/citations?user=mzhGbFMAAAAJ&hl=en"><img alt="follow me on Twitter" src="images/scholar.png"></a>
-                </div>
-            </div>
-            <div class="column_three">
-                <div class = "logo">
-                <a target="_blank" href="https://github.com/joshuacoven"><img alt="follow me on Twitter" src="images/github.png"></a>
-                </div>
-            </div>
-            <div class="column_three">
-                <div class = "logo">
-                <a target="_blank" href="https://www.linkedin.com/in/josh-coven-839b5b101/"><img alt="follow me on Twitter" src="images/linkedin.png"></a>
-                </div>
-            </div>
-            <div class="column_three">
-                <div class = "logo">
-                <a target="_blank" href="https://twitter.com/josh_coven"><img alt="follow me on Twitter" src="images/twitter.png"></a>
-                </div>
-            </div>
-        </div>
-        -->
-        </div>
+    <div class="col-7 home-text">
+        <br>
+        <br>
+        <h1 class="custom-color" style="font-size: 36pt">Joshua Coven</h1>
+        <br>
+        <p style="font-size: 12pt">I am a PhD student in Finance at the NYU Stern School of Business.</p>
+        <p style="font-size: 12pt">I am interested in real estate, urban economics, household finance, and industrial organization.</p>
+        <p style="font-size: 12pt">I am on the job market this cycle. My job market paper studies <a href="{{site.url}}/assets/JoshuaCovenJMP.pdf" class="custom-link">The Impact of Institutional Investors on Homeownership and Neighborhood Access.</a></p>
+        <p style="font-size: 12pt"><strong>Contact:</strong> joshua.coven@stern.nyu.edu</p>
+        <p style="font-size: 12pt"><a href="{{site.url}}/assets/CVJoshuaCoven.pdf" class="custom-link">CV</a></p>
+        <br>
+    </div>
 </div>
 <div id="Papers"></div>
 <br>
@@ -52,13 +29,13 @@ permalink: /
         <div class="card">
             <div class="card-body">
                 <h5 class="card-title">
-                    <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554831" class = "custom-link-nounderline">
+                    <a href =  "{{site.url}}/assets/JoshuaCovenJMP.pdf" class = "custom-link-nounderline">
                     The Impact of Institutional Investors on Homeownership and Neighborhood Access
                     </a>
                 </h5>
                 <button class="drawer-toggle" onclick="toggleDrawer('abstract1')">Abstract <span class="caret" id="caret-abstract1"><i class="fas fa-caret-down"></i></span></button>
                 <div class="drawer" id="abstract1">
-                    <p class="card-text">I estimate a demand system to study the effects of institutional investors' conversion of large fractions of owner-occupied housing into rentals in the suburbs of US cities. I find the purchases and subsequent conversions of houses resulted in a tradeoff between homeowners and renters. Institutional investors decreased the housing available for owner-occupancy by 30% of the homes they converted, and their demand shock raised the price of housing in a census PUMA by 7.4pp per 1pp of housing they purchased. Higher prices made it harder for people to buy homes. However, the institutional investors increased the supply of homes available for renter occupancy by 69% of the houses they converted, and lowered rents by 2.3pp per 1pp of housing they purchased. The increase in the supply of rental housing allowed the financially constrained to move into neighborhoods that previously had few rental units. The people who moved into institutional investor-owned homes had lower incomes, a lower likelihood of having a bachelor's degree, were more likely to be white, came from areas with worse historic economic mobility, and came from areas with lower school test scores than others who moved into the same census tracts. The findings suggest that institutional investors made it harder for people to purchase homes, but easier for renters to access neighborhoods that previously had few rentals.</p>
+                    <p class="card-text">Since 2012, institutional investor entry into the single family rental market in the suburbs of US cities coincided with higher price and rent growth relative to the rest of the country. This paper estimates a structural model where institutional investor landlords benefit from economies of scale and market power, to determine the consequences of their impact on the housing market. While institutional investors’ demand shock decreased homeownership and raised prices locally, supply responses dampened these effects resulting in a decrease in homeownership of 0.23 homes for each home purchased and an increase in prices of at most 27% of the observed price increase in markets where they entered. Institutional investors decreased rents on net despite the presence of market power because they increased the supply of rentals. Overall, institutional investor entry resulted in a tradeoff: renters benefited through lower rents and more rentals in locations with better schools, but prospective homeowners had a harder time buying homes due to higher prices.</p>
                 </div>
             </div>
         </div>
@@ -125,6 +102,52 @@ permalink: /
      </div>
 </div>
 <br>
+<h1 style="font-size: 20pt">Works in Progress</h1>
+<div class="row card-row">
+    <div class = "col-12">
+    <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <p>
+                    New Home Bias and the Decline in Internal Migration in the US
+                    </p>
+                </h5>
+                <button class="drawer-toggle" onclick="toggleDrawer('abstract5')">Abstract <span class="caret" id="caret-abstract5"><i class="fas fa-caret-down"></i></span></button>
+                <div class="drawer" id="abstract5">
+                    <p class="card-text">The decline in internal migration in the US from 1970 to 2020 is driven by within county migration. I show that housing completions increase within county migration rates and decrease both housing crowding and housing under-utilization, suggesting that new homes allow households to better optimize housing choice. I document a preference for new homes by households that has been increasing over time. Additional work on this paper will attempt to determine if this is driven by new homes or by more homes, as completions are a bundle of both.</p>
+                </div>
+            </div>
+        </div>
+     </div>
+</div>
+<div class="row card-row">
+    <div class = "col-12">
+    <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <p>
+                    Landlord Financing and Gentrification
+                    </p>
+                </h5>
+            </div>
+        </div>
+     </div>
+</div>
+<div class="row card-row">
+    <div class = "col-12">
+    <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <p>
+                    Neighborhood Access for Voucher Holders: The Impact of Institutional Landlords
+                    </p>
+                </h5>
+                <h5>with JoonYup Park</h5>
+            </div>
+        </div>
+     </div>
+</div>
+<br>
 <h1 style="font-size: 20pt">Other Papers</h1>
 <div class="row card-row">
     <div class = "col-12">
@@ -136,8 +159,8 @@ permalink: /
                     </a>
                 </h5>
                 <h5>with Arpit Gupta</h5>
-                <button class="drawer-toggle" onclick="toggleDrawer('abstract5')">Abstract <span class="caret" id="caret-abstract5"><i class="fas fa-caret-down"></i></span></button>
-                <div class="drawer" id="abstract5">
+                <button class="drawer-toggle" onclick="toggleDrawer('abstract6')">Abstract <span class="caret" id="caret-abstract6"><i class="fas fa-caret-down"></i></span></button>
+                <div class="drawer" id="abstract6">
                     <p class="card-text">We investigate the role of demographic differences in mobility in explaining disparities in COVID-19 outcomes in New York City. We find: 1) New York City residents
 in richer neighborhoods are substantially more likely to flee the city, 2) Low-income,
 black, and Hispanic neighborhoods exhibit more work activity during the day, and
