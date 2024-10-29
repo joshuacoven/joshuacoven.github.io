@@ -37,7 +37,7 @@ permalink: /
         </div>
     </div>
 </div>
-<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 15px;">
     <div class="card" style="width: 100%;">
         <div class="card-body">
             <h5 class="card-title">
@@ -72,7 +72,7 @@ permalink: /
         </div>
     </div>
 </div>
-<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 15px;">
     <div class="card" style="width: 100%;">
         <div class="card-body">
             <h5 class="card-title">
@@ -123,7 +123,7 @@ permalink: /
 </div>
 
 <!-- Third Card -->
-<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 15px;">
     <div class="card" style="width: 100%;">
         <div class="card-body">
             <h5 class="card-title">
@@ -135,7 +135,7 @@ permalink: /
 </div>
 <br>
 <h1 style="font-size: 20pt">Other Papers</h1>
-<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 15px;">
     <div class="card" style="width: 100%;">
         <div class="card-body">
             <h5 class="card-title">
