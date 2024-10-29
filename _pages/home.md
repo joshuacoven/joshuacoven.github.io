@@ -21,8 +21,8 @@ permalink: /
 </div>
 <div id="Papers"></div>
 <br>
-<h1 style="font-size: 20pt">Working Papers</h1>
-<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<h1 style="font-size: 20pt;">Working Papers</h1>
+<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center">
     <div class="card" style="width: 100%; ">
         <div class="card-body">
             <h5 class="card-title">
@@ -55,7 +55,7 @@ permalink: /
 </div>
 <br>
 <h1 style="font-size: 20pt">Published Papers</h1>
-<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div class="card" style="width: 100%;">
         <div class="card-body">
             <h5 class="card-title">
@@ -97,13 +97,11 @@ permalink: /
 </div>
 <br>
 <h1 style="font-size: 20pt">Works in Progress</h1>
-<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div class="card" style="width: 100%;">
         <div class="card-body">
             <h5 class="card-title">
-                <p>
-                    New Home Bias and the Decline in Internal Migration in the US
-                </p>
+                New Home Bias and the Decline in Internal Migration in the US
             </h5>
             <button class="drawer-toggle" onclick="toggleDrawer('abstract5')">Abstract <span class="caret" id="caret-abstract5"><i class="fas fa-caret-down"></i></span></button>
             <div class="drawer" id="abstract5">
@@ -114,13 +112,11 @@ permalink: /
 </div>
 
 <!-- Second Card -->
-<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <div class="card" style="width: 100%;">
         <div class="card-body">
             <h5 class="card-title">
-                <p>
-                    Landlord Financing and Gentrification
-                </p>
+                Landlord Financing and Gentrification
             </h5>
         </div>
     </div>
@@ -131,9 +127,7 @@ permalink: /
     <div class="card" style="width: 100%;">
         <div class="card-body">
             <h5 class="card-title">
-                <p>
-                    Neighborhood Access for Voucher Holders: The Impact of Institutional Landlords
-                </p>
+                Neighborhood Access for Voucher Holders: The Impact of Institutional Landlords
             </h5>
             <h5>with JoonYup Park</h5>
         </div>
@@ -163,8 +157,8 @@ permalink: /
 <h1 style="font-size: 20pt">Code</h1>
 <div class="row" style="width: 100%;">
     <div style="width: 100%;">
-        <h5>
-            <a href="https://github.com/joshuacoven/HRS_Assembly" style="color: black">Python code to assemble the Health and Retirement Study</a>
+        <h5 style="font-size: 1rem">
+            <a href="https://github.com/joshuacoven/HRS_Assembly" style="color: black; font-size: 1.2rem">Python code to assemble the Health and Retirement Study</a>
         </h5>
     </div>
 </div>
@@ -172,7 +166,7 @@ permalink: /
 <div class="row" style="width: 100%;">
     <div style="width: 100%;">
         <h5>
-            <a href="https://github.com/joshuacoven/Query_The_Census" style="color: black">Python code to query the Census API</a>
+            <a href="https://github.com/joshuacoven/Query_The_Census" style="color: black; font-size: 1.2rem">Python code to query the Census API</a>
         </h5>
     </div>
 </div>
