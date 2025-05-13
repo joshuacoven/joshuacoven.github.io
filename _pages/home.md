@@ -12,9 +12,9 @@ permalink: /
     <!-- Text Container -->
     <div class="home-text" style="width: 60%; text-align: left;">
         <h1 class="custom-color" style="font-size: 36pt;">Joshua Coven</h1>
-        <p style="font-size: 12pt;">I am a PhD student in Finance at the NYU Stern School of Business.</p>
+        <p style="font-size: 12pt;">I am an incoming Assistant Professor of Real Estate at Baruch College, Zicklin School of Business. I am graduating with a PhD from NYU Stern in Finance in May 2025.</p>
         <p style="font-size: 12pt;">I am interested in real estate, urban economics, household finance, and industrial organization.</p>
-        <p style="font-size: 12pt;">I am on the job market this cycle. My job market paper studies <a href="{{site.url}}/assets/JoshuaCovenJMP.pdf" class="custom-link">The Impact of Institutional Investors on Homeownership and Neighborhood Access.</a></p>
+        <p style="font-size: 12pt;">My job market paper studies <a href="{{site.url}}/assets/JoshuaCovenJMP.pdf" class="custom-link">The Impact of Institutional Investors on Homeownership and Neighborhood Access.</a></p>
         <p style="font-size: 12pt;"><strong>Contact:</strong> joshua.coven@stern.nyu.edu</p>
         <p style="font-size: 12pt;"><a href="{{site.url}}/assets/CVJoshuaCoven.pdf" class="custom-link">CV</a></p>
     </div>
@@ -32,7 +32,7 @@ permalink: /
             </h5>
             <button class="drawer-toggle" onclick="toggleDrawer('abstract1')">Abstract <span class="caret" id="caret-abstract1"><i class="fas fa-caret-down"></i></span></button>
             <div class="drawer" id="abstract1">
-                <p class="card-text">Since 2012, institutional investors entered the single-family rental market in areas that subsequently experienced high rent and house price growth. To determine the impact of institutional investors on the housing market, this paper estimates a structural model where institutional investor landlords benefit from economies of scale and market power. Overall, institutional investor entry resulted in a tradeoff. Renters benefited from lower rents because institutional investors increased the rental supply by 0.58 homes for each home they purchased. This expansion occurred because economies of scale outweighed the incentive to use market power to decrease supply. However, prospective homeowners had a harder time buying homes: Homeownership decreased by 0.23 homes for each home purchased, and institutional investors caused 21% of the observed price increase in their top decile of markets. Supply responses dampened these impacts. These findings show that economies of scale, not market power, are the driving mechanism behind institutional investor impact in the single-family rental market.</p>
+                <p class="card-text">Since 2012, institutional investors entered the single-family rental market in areas that subsequently experienced high rent and house price growth. To determine the impact of institutional investors on the housing market, this paper estimates a structural model where institutional investor landlords benefit from economies of scale and market power. Overall, institutional investor entry resulted in a tradeoff. Renters benefited from lower rents because institutional investors increased the rental supply by 0.52 homes for each home they purchased. This expansion occurred because economies of scale outweighed the incentive to use market power to decrease supply. However, prospective homeowners had a harder time buying homes: Homeownership decreased by 0.21 homes for each home purchased, and institutional investors caused 23% of the observed price increase in their top decile of markets. Supply responses dampened these impacts. These findings show that economies of scale, not market power, are the driving mechanism behind institutional investor impact in the single-family rental market.</p>
             </div>
         </div>
     </div>
