@@ -12,7 +12,7 @@ permalink: /
     <!-- Text Container -->
     <div class="home-text" style="width: 60%; text-align: left;">
         <h1 class="custom-color" style="font-size: 36pt;">Joshua Coven</h1>
-        <p style="font-size: 12pt;">I am an incoming Assistant Professor of Real Estate at Baruch College, Zicklin School of Business. I am graduating with a PhD from NYU Stern in Finance in May 2025.</p>
+        <p style="font-size: 12pt;">I am an incoming Assistant Professor of Real Estate at Baruch College, Zicklin School of Business. I graduated with a PhD in Finance from NYU Stern in May 2025.</p>
         <p style="font-size: 12pt;">I am interested in real estate, urban economics, household finance, and industrial organization.</p>
         <p style="font-size: 12pt;">My job market paper studies <a href="{{site.url}}/assets/JoshuaCovenJMP.pdf" class="custom-link">The Impact of Institutional Investors on Homeownership and Neighborhood Access.</a></p>
         <p style="font-size: 12pt;"><strong>Contact:</strong> joshua.coven@stern.nyu.edu</p>
