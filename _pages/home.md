@@ -96,44 +96,6 @@ permalink: /
     </div>
 </div>
 <br>
-<h1 style="font-size: 20pt">Works in Progress</h1>
-<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div class="card" style="width: 100%;">
-        <div class="card-body">
-            <h5 class="card-title">
-                New Home Bias and the Decline in Internal Migration in the US
-            </h5>
-            <button class="drawer-toggle" onclick="toggleDrawer('abstract5')">Abstract <span class="caret" id="caret-abstract5"><i class="fas fa-caret-down"></i></span></button>
-            <div class="drawer" id="abstract5">
-                <p class="card-text">The decline in internal migration in the US from 1970 to 2020 is driven by within county migration. I show that housing completions increase within county migration rates and decrease both housing crowding and housing under-utilization, suggesting that new homes allow households to better optimize housing choice. I document a preference for new homes by households that has been increasing over time. Additional work on this paper will attempt to determine if this is driven by new homes or by more homes, as completions are a bundle of both.</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- Second Card -->
-<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <div class="card" style="width: 100%;">
-        <div class="card-body">
-            <h5 class="card-title">
-                Landlord Financing and Gentrification
-            </h5>
-        </div>
-    </div>
-</div>
-
-<!-- Third Card -->
-<div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 15px;">
-    <div class="card" style="width: 100%;">
-        <div class="card-body">
-            <h5 class="card-title">
-                Neighborhood Access for Voucher Holders: The Impact of Institutional Landlords
-            </h5>
-            <h5>with JoonYup Park</h5>
-        </div>
-    </div>
-</div>
-<br>
 <h1 style="font-size: 20pt">Other Papers</h1>
 <div class="row card-row" style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 15px;">
     <div class="card" style="width: 100%;">
