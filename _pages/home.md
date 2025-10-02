@@ -46,6 +46,7 @@ permalink: /
                 </a>
             </h5>
             <h5>with Sebastian Golder, Arpit Gupta, and Abdoulaye Ndiaye</h5>
+            <h6>Revise and Resubmit, American Economic Review</h6>
             <button class="drawer-toggle" onclick="toggleDrawer('abstract2')">Abstract <span class="caret" id="caret-abstract2"><i class="fas fa-caret-down"></i></span></button>
             <div class="drawer" id="abstract2">
                 <p class="card-text">Low property taxes amplify lock-in effects for elderly homeowners, limiting housing access for young families. Higher property taxes function as "embedded leverage reducing required down payments through a capitalization effect and enabling greater homeownership among younger households. Our overlapping generations model shows that raising California's property taxes to Texas levels would increase homeownership by six percentage points and young household ownership by eight percentage points. Conversely, higher capital gains taxes worsen lock-in effects and reduce young homeownership. Asset taxes can effectively reallocate housing to higher-valuation households when financial constraints exist, providing an independent justification for property taxation policies.</p>
