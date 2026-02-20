@@ -30,6 +30,7 @@ permalink: /
                     The Impact of Institutional Investors on Homeownership and Neighborhood Access
                 </a>
             </h5>
+            <h6>Revise and Resubmit, Review of Financial Studies</h6>
             <button class="drawer-toggle" onclick="toggleDrawer('abstract1')">Abstract <span class="caret" id="caret-abstract1"><i class="fas fa-caret-down"></i></span></button>
             <div class="drawer" id="abstract1">
                 <p class="card-text">Since 2012, institutional investors entered the single-family rental market in areas that subsequently experienced high rent and house price growth. This paper estimates a structural model where institutional landlords benefit from economies of scale and market power. Entry created a tradeoff: Renters benefited from lower rents because institutional investors expanded rental supply by 0.5 homes for each home purchased, but homeownership fell by 0.22 per purchase. In their top decile markets, entry explains 20% of the observed price increase. Supply responses dampened these effects. Overall, economies of scale, not market power, drive institutional investors’ impact on the single-family rental market.</p>
