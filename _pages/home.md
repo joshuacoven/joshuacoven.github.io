@@ -42,7 +42,7 @@ permalink: /
     <div class="card" style="width: 100%;">
         <div class="card-body">
             <h5 class="card-title">
-                <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880480" class="custom-link-nounderline">
+                <a href="{{site.url}}/assets/PropertyTaxes.pdf" class="custom-link-nounderline">
                     Property Taxes and Housing Allocation Under Financial Constraints
                 </a>
             </h5>
@@ -50,7 +50,7 @@ permalink: /
             <h6>Revise and Resubmit, American Economic Review</h6>
             <button class="drawer-toggle" onclick="toggleDrawer('abstract2')">Abstract <span class="caret" id="caret-abstract2"><i class="fas fa-caret-down"></i></span></button>
             <div class="drawer" id="abstract2">
-                <p class="card-text">Low property taxes amplify lock-in effects for elderly homeowners, limiting housing access for young families. Higher property taxes function as "embedded leverage" reducing required down payments through a capitalization effect and enabling greater homeownership among younger households. Our overlapping generations model shows that raising California's property taxes to Texas levels would increase homeownership by six percentage points and young household ownership by eight percentage points. Conversely, higher capital gains taxes worsen lock-in effects and reduce young homeownership. Asset taxes can effectively reallocate housing to higher-valuation households when financial constraints exist, providing an independent justification for property taxation policies.</p>
+                <p class="card-text">Low property taxes amplify lock-in among elderly homeowners, limiting housing access for young families. Raising them reallocates housing toward the young through two channels: capitalization into lower prices reduces required downpayments for financially constrained buyers, a form of embedded leverage, while higher tax obligations raise holding costs for older owners. In our overlapping generations model, raising California's property taxes to Texas levels increases young homeownership while decreasing elderly homeownership. Removing step-up basis also lowers elderly homeownership, suggesting their tenure is sustained by bequest tax advantages. The tax treatment of housing shapes housing allocation across generations.</p>
             </div>
         </div>
     </div>
